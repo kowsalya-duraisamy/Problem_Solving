@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0504-base-7](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0504-base-7) |
 | [1070-convert-to-base-2](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1070-convert-to-base-2) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
