@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0200-number-of-islands) |
 | [0941-sort-array-by-parity](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0941-sort-array-by-parity) |
 ## Two Pointers
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -61,4 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
