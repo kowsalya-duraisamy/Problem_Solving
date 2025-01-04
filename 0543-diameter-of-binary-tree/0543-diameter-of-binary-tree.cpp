@@ -10,18 +10,18 @@
  * };
  */
 class Solution {
-    int res=0;
+    int dia;
 public:
-    int diameterOfBinaryTree(TreeNode* root) {
-        dbt(root);
-        return res;
+    int getWidth(TreeNode* root){
+        if(root==nullptr) return 0;
+        int lw=getWidth(root->left);
+        int rw=getWidth(root->right);
+        dia=max(dia, lw+rw);
+        return max(lw, rw)+1;
     }
-private:
-    int dbt(TreeNode* root){
-        if(root==NULL) return 0;
-        int lp=dbt(root->left);
-        int rp=dbt(root->right);
-        res=max(res,lp+rp);
-         return 1+max(lp,rp);;
+    int diameterOfBinaryTree(TreeNode* root) {
+        dia=0;
+        getWidth(root);
+        return dia;
     }
 };
