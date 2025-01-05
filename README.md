@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0200-number-of-islands) |
 | [0941-sort-array-by-parity](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0941-sort-array-by-parity) |
+| [2465-shifting-letters-ii](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2465-shifting-letters-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0200-number-of-islands) |
+## String
+|  |
+| ------- |
+| [2465-shifting-letters-ii](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2465-shifting-letters-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [2465-shifting-letters-ii](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2465-shifting-letters-ii) |
 <!---LeetCode Topics End-->
