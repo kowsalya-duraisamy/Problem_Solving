@@ -132,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
+## Database
+|  |
+| ------- |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
