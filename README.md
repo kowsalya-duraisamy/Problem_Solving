@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0012-integer-to-roman) |
 | [0504-base-7](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0504-base-7) |
 | [1070-convert-to-base-2](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1070-convert-to-base-2) |
 ## Divide and Conquer
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0012-integer-to-roman) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2465-shifting-letters-ii](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2465-shifting-letters-ii) |
 ## Prefix Sum
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0012-integer-to-roman) |
 | [0347-top-k-frequent-elements](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
