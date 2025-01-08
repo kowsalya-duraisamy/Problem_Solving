@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0012-integer-to-roman) |
 | [0079-word-search](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0093-restore-ip-addresses) |
 | [1524-string-matching-in-an-array](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2465-shifting-letters-ii](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2465-shifting-letters-ii) |
@@ -182,4 +183,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
