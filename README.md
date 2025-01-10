@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0093-restore-ip-addresses) |
 | [0214-shortest-palindrome](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0214-shortest-palindrome) |
+| [0394-decode-string](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0763-special-binary-string) |
 | [0952-word-subsets](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1524-string-matching-in-an-array) |
@@ -216,9 +217,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0763-special-binary-string) |
 ## Greedy
 |  |
 | ------- |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2687-lexicographically-smallest-beautiful-string) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
