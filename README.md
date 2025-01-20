@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0093-restore-ip-addresses) |
 | [0214-shortest-palindrome](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0214-shortest-palindrome) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0394-decode-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
