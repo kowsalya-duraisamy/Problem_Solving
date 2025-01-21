@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0171-excel-sheet-column-number) |
 | [0504-base-7](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1070-convert-to-base-2) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0093-restore-ip-addresses) |
+| [0171-excel-sheet-column-number](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0171-excel-sheet-column-number) |
 | [0214-shortest-palindrome](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0763-special-binary-string) |
