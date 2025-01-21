@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0012-integer-to-roman) |
 | [0504-base-7](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0504-base-7) |
+| [1013-fibonacci-number](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1070-convert-to-base-2) |
 ## Divide and Conquer
 |  |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0763-special-binary-string) |
+| [1013-fibonacci-number](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -268,4 +270,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1321-get-equal-substrings-within-budget](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1321-get-equal-substrings-within-budget) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
