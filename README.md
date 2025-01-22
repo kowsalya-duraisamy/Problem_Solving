@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
+| [0598-range-addition-ii](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0598-range-addition-ii) |
 | [0941-sort-array-by-parity](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0941-sort-array-by-parity) |
 | [0952-word-subsets](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1524-string-matching-in-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0171-excel-sheet-column-number) |
 | [0504-base-7](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0504-base-7) |
+| [0598-range-addition-ii](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0598-range-addition-ii) |
 | [1013-fibonacci-number](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1070-convert-to-base-2) |
 | [1236-n-th-tribonacci-number](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1236-n-th-tribonacci-number) |
