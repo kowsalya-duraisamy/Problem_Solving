@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0093-restore-ip-addresses) |
 | [0171-excel-sheet-column-number](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0171-excel-sheet-column-number) |
 | [0214-shortest-palindrome](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0214-shortest-palindrome) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0070-climbing-stairs) |
+| [0087-scramble-string](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0087-scramble-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1236-n-th-tribonacci-number) |
