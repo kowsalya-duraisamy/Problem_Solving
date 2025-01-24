@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0543-diameter-of-binary-tree) |
+| [0820-find-eventual-safe-states](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1396-count-servers-that-communicate) |
 ## Binary Tree
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0200-number-of-islands) |
+| [0820-find-eventual-safe-states](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1876-map-of-highest-peak) |
@@ -331,4 +333,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0062-unique-paths) |
+## Graph
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
