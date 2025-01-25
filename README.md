@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1876-map-of-highest-peak](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [2145-grid-game](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2465-shifting-letters-ii) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1250-longest-common-subsequence) |
 | [1517-restore-the-array](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1517-restore-the-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 ## Memoization
 |  |
 | ------- |
