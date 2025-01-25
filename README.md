@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0376-wiggle-subsequence](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0376-wiggle-subsequence) |
+| [0403-frog-jump](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0403-frog-jump) |
 | [0598-range-addition-ii](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0598-range-addition-ii) |
 | [0941-sort-array-by-parity](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0941-sort-array-by-parity) |
 | [0952-word-subsets](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0952-word-subsets) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0087-scramble-string) |
 | [0376-wiggle-subsequence](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0376-wiggle-subsequence) |
+| [0403-frog-jump](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0403-frog-jump) |
 | [0516-longest-palindromic-subsequence](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0639-decode-ways-ii](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0639-decode-ways-ii) |
 | [1013-fibonacci-number](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1013-fibonacci-number) |
