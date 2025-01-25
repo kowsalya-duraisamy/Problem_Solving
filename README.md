@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2465-shifting-letters-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2685-first-completely-painted-row-or-column) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Two Pointers
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0941-sort-array-by-parity) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1129-longest-string-chain) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Math
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0200-number-of-islands) |
 | [1396-count-servers-that-communicate](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
 |  |
 | ------- |
