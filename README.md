@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1396-count-servers-that-communicate) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Binary Tree
 |  |
 | ------- |
@@ -355,10 +356,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Topological Sort
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Binary Search Tree
 |  |
 | ------- |
