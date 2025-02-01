@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0221-maximal-square) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0093-restore-ip-addresses) |
+| [0139-word-break](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0171-excel-sheet-column-number) |
 | [0214-shortest-palindrome](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0394-decode-string) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0012-integer-to-roman) |
+| [0139-word-break](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0952-word-subsets](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0952-word-subsets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0139-word-break) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -362,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0087-scramble-string) |
+| [0139-word-break](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0221-maximal-square) |
 | [0376-wiggle-subsequence](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0403-frog-jump) |
@@ -381,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1236-n-th-tribonacci-number) |
 ## Combinatorics
