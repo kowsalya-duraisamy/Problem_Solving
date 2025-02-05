@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1129-longest-string-chain) |
 | [1502-construct-k-palindrome-strings](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2685-first-completely-painted-row-or-column) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [1396-count-servers-that-communicate](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Simulation
