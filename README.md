@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0967-minimum-falling-path-sum) |
 | [1105-uncrossed-lines](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1105-uncrossed-lines) |
 | [1129-longest-string-chain](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1129-longest-string-chain) |
+| [1364-tuple-with-same-product](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1396-count-servers-that-communicate) |
 | [1524-string-matching-in-an-array](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1524-string-matching-in-an-array) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0952-word-subsets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1129-longest-string-chain) |
+| [1364-tuple-with-same-product](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
+| [1364-tuple-with-same-product](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
