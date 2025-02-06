@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0854-making-a-large-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1300-critical-connections-in-a-network](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1300-critical-connections-in-a-network) |
 | [1396-count-servers-that-communicate](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1396-count-servers-that-communicate) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1558-course-schedule-iv](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1558-course-schedule-iv) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0684-redundant-connection) |
 | [0813-all-paths-from-source-to-target](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0820-find-eventual-safe-states) |
+| [1300-critical-connections-in-a-network](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1300-critical-connections-in-a-network) |
 | [1558-course-schedule-iv](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -430,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
