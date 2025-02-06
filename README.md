@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0684-redundant-connection) |
+| [0813-all-paths-from-source-to-target](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0854-making-a-large-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0684-redundant-connection) |
+| [0813-all-paths-from-source-to-target](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0854-making-a-large-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0093-restore-ip-addresses) |
+| [0813-all-paths-from-source-to-target](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0813-all-paths-from-source-to-target) |
 ## Recursion
 |  |
 | ------- |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0684-redundant-connection) |
+| [0813-all-paths-from-source-to-target](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
