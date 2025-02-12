@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0171-excel-sheet-column-number) |
 | [0214-shortest-palindrome](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0214-shortest-palindrome) |
+| [0290-word-pattern](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0639-decode-ways-ii](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0639-decode-ways-ii) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0012-integer-to-roman) |
 | [0139-word-break](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0139-word-break) |
+| [0290-word-pattern](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0952-word-subsets](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0952-word-subsets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
