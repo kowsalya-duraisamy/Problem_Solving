@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2465-shifting-letters-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0941-sort-array-by-parity) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1129-longest-string-chain) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Math
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2685-first-completely-painted-row-or-column) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Heap (Priority Queue)
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Quickselect
 |  |
 | ------- |
