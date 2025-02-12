@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0221-maximal-square) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0435-non-overlapping-intervals) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0012-integer-to-roman) |
 | [0139-word-break](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0952-word-subsets](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0952-word-subsets) |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [1364-tuple-with-same-product](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1396-count-servers-that-communicate) |
