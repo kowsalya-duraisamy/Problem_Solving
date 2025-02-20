@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2107-find-unique-binary-string](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2465-shifting-letters-ii) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2107-find-unique-binary-string](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2107-find-unique-binary-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2107-find-unique-binary-string](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2685-first-completely-painted-row-or-column) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Recursion
