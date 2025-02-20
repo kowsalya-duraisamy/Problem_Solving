@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0200-number-of-islands) |
+| [0257-binary-tree-paths](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0684-redundant-connection) |
 | [0813-all-paths-from-source-to-target](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0813-all-paths-from-source-to-target) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0171-excel-sheet-column-number) |
 | [0214-shortest-palindrome](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0214-shortest-palindrome) |
+| [0257-binary-tree-paths](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0516-longest-palindromic-subsequence) |
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0093-restore-ip-addresses) |
+| [0257-binary-tree-paths](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0257-binary-tree-paths) |
 | [0813-all-paths-from-source-to-target](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
