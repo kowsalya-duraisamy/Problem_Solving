@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0435-non-overlapping-intervals) |
 | [0598-range-addition-ii](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0598-range-addition-ii) |
 | [0854-making-a-large-island](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0854-making-a-large-island) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0941-sort-array-by-parity](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0941-sort-array-by-parity) |
 | [0952-word-subsets](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0967-minimum-falling-path-sum) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0543-diameter-of-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0543-diameter-of-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0952-word-subsets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1129-longest-string-chain) |
