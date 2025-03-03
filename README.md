@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2145-grid-game) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0005-longest-palindromic-substring) |
 | [0941-sort-array-by-parity](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0941-sort-array-by-parity) |
 | [1129-longest-string-chain](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/1129-longest-string-chain) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/0059-spiral-matrix-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/kowsalya-duraisamy/Problem_Solving/tree/master/3447-clear-digits) |
